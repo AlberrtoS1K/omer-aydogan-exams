@@ -1,0 +1,14 @@
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\bin\Debug\net10.0\assesmentproject_16.exe
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\bin\Debug\net10.0\assesmentproject_16.deps.json
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\bin\Debug\net10.0\assesmentproject_16.runtimeconfig.json
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\bin\Debug\net10.0\assesmentproject_16.dll
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\bin\Debug\net10.0\assesmentproject_16.pdb
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.AssemblyInfoInputs.cache
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.AssemblyInfo.cs
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.csproj.CoreCompileInputs.cache
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.dll
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\refint\assesmentproject_16.dll
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.pdb
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\assesmentproject_16.genruntimeconfig.cache
+C:\Users\beyde\Desktop\infotech-CES\assessments\assesmentproject_16\obj\Debug\net10.0\ref\assesmentproject_16.dll

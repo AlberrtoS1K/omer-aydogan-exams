@@ -1,0 +1,14 @@
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.AssemblyInfoInputs.cache
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.AssemblyInfo.cs
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.csproj.CoreCompileInputs.cache
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\bin\Debug\net10.0\assesmentproject_9.exe
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\bin\Debug\net10.0\assesmentproject_9.deps.json
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\bin\Debug\net10.0\assesmentproject_9.runtimeconfig.json
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\bin\Debug\net10.0\assesmentproject_9.dll
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\bin\Debug\net10.0\assesmentproject_9.pdb
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.dll
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\refint\assesmentproject_9.dll
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.pdb
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\assesmentproject_9.genruntimeconfig.cache
+C:\Users\beyde\Desktop\infotech-CES\assesment_week3\assesmentproject_9\obj\Debug\net10.0\ref\assesmentproject_9.dll
